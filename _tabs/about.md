@@ -17,7 +17,7 @@ In the past, I have also served as a graudate Teaching Assistant for CS 547: Dee
 
 ## Projects & Research Experiences 
 
-At the University of Illinois at Urbana-Champaign, I worked on a project for Terrorist Network Detection. I collaborated with other team members to create a machine learning model using Python to classify and analyze potential networks between terrorist organizations using over 18,000 terrorist events. In UIC, I collaborated with Fermilab for a computer vision and robotic project.
+At the University of Illinois at Urbana-Champaign, I worked on a project for Terrorist Network Detection. I collaborated with other team members to create a machine learning model using Python to classify and analyze potential networks between terrorist organizations using over 18,000 terrorist events. In UIC, I worked with fermilab to build a proof-of-concept robot for the maintainance of the [NuMI system](https://en.wikipedia.org/wiki/NuMI) using deep lerning for machine vision.
 
 ## Connecting with me
 If you'd like to connect, feel free to reach out via LinkedIn!

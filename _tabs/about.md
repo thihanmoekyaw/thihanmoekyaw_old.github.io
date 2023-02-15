@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# Hi
- My name is Thihan Moe Kyaw. I am currently a student studying Master of Science in Industrial Engineering, with a focus on Advanced Analytics and Operations Research.
+# Hello!
+I am Thihan Moe Kyaw. I am currently a student studying Master of Science in Industrial Engineering, with a focus on Advanced Analytics and Operations Research.
 
 ## Education
 I pursued my Bachelor's degree in Industrial Engineering from University of Illinois at Chicago ([UIC](https://www.uic.edu/)). I further continued my academic journey at the University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu/)). I am currently pursuing my Master of Science in Industrial Engineering (Advanced Analytics & Operations Research).

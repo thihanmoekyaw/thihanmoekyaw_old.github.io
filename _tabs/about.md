@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# About me
+# Hi
  My name is Thihan Moe Kyaw. I am currently a student studying Master of Science in Industrial Engineering, with a focus on Advanced Analytics and Operations Research.
 
 ## Education

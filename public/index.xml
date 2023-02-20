@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Thihan Moe Kyaw&#39;s Site</title>
+        <link>https://thihanmoekyaw.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Feb 2023 20:15:00 -0600</lastBuildDate>
+            <atom:link href="https://thihanmoekyaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://thihanmoekyaw.github.io/posts/first_post/</link>
+    <pubDate>Tue, 14 Feb 2023 20:15:00 -0600</pubDate>
+    <author>Thihan Moe Kyaw</author>
+    <guid>https://thihanmoekyaw.github.io/posts/first_post/</guid>
+    <description><![CDATA[Hi everyone! Welcome to my page! My name is Thihan Moe Kyaw. I am a current student at the University of Illinois at Urbana-Champaign(UIUC). I am a master student at the Industrial &amp; Enterprise Systems Engineering (ISE) and a graduate research assistant at the National Center for Supercomputing Applications(NCSA). You can learn more about me in the about me page. Thank you for visiting!
+Note: this is the new version of my website.]]></description>
+</item>
+</channel>
+</rss>
